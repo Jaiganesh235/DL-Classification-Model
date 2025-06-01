@@ -147,18 +147,22 @@ print(f'Actual class for sample input: {iris.target_names[y_test[5].item()]}')
 ```
 
 ### Dataset Information
-![image](https://github.com/user-attachments/assets/81dc2dc7-04b8-41da-b3d6-822398bca5ac)
+![image](https://github.com/user-attachments/assets/20515b6e-0310-4bac-8912-cbde90e2766f)
+
 ### OUTPUT
 
 ## Confusion Matrix
-![Screenshot 2025-04-17 083234](https://github.com/user-attachments/assets/aa7ad430-e7c6-4e62-9553-fbd577168430)
+![image](https://github.com/user-attachments/assets/709934ff-db4e-44a8-8e3a-01d76dd94130)
+
 
 ## Classification Report
-![Screenshot 2025-04-17 083153](https://github.com/user-attachments/assets/36e18bbf-ee4c-4e0f-b0d9-d16c16da6578)
+![image](https://github.com/user-attachments/assets/789f4a69-42be-4859-85da-b26279d350b0)
+
 
 ### New Sample Data Prediction
 
-![Screenshot 2025-04-17 083303](https://github.com/user-attachments/assets/064de0ef-d82d-43db-ae8a-14dde4f86454)
+![image](https://github.com/user-attachments/assets/f3fedea7-991c-4dee-8771-7c1bce35335a)
+
 
 ## RESULT
 Thus, a neural network classification model was successfully developed and trained using PyTorch
